@@ -1,6 +1,6 @@
-# WHMCS Module
+# WHMCS 8 Vultr Module
 
-## Note: This module is community driven, it is no longer actively maintained.
+## Note: Merged from PR to create function WHMCS Vultr 8 Addon
 
 ## System Requirements
 
