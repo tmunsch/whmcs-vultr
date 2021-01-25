@@ -4,7 +4,7 @@
 
 ## System Requirements
 
-* WHMCS version 7.2.x or newer
+* WHMCS version 8.x or newer
 * PHP version 7.1.x or newer
 * MySQL 5.6, MariaDB 5.6, MariaDB 10.0, or MariaDB 10.1
 * ionCube Loader
